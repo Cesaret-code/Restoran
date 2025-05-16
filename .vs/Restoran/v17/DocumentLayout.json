@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\Restoran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|c:\\users\\ii novbe\\desktop\\restoran\\restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B6EE62-ACD8-4EE7-8CA8-53BB694805CF}|Restoran\\Restoran.csproj|solutionrelative:restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:37:35.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:36:15.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "Restoran\\ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "Restoran\\ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:33:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\ViewModels\\Account\\LoginVm.cs",
+              "RelativeDocumentMoniker": "Restoran\\ViewModels\\Account\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\ViewModels\\Account\\LoginVm.cs",
+              "RelativeToolTip": "Restoran\\ViewModels\\Account\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:32:58.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Restoran\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Restoran\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwD4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:20:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Program.cs",
+              "RelativeDocumentMoniker": "Restoran\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Program.cs",
+              "RelativeToolTip": "Restoran\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:15:46.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T08:10:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:55:06.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\Restoran\\Restoran\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T07:53:56.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
